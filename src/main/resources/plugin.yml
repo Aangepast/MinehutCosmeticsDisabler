@@ -1,0 +1,7 @@
+name: AoM-Blocker
+version: '${project.version}'
+main: dev.aangepast.aomcosmeticsblocker.Main
+api-version: 1.19
+commands:
+  cosmetics:
+    usage: /<command>
